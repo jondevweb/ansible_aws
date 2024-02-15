@@ -1,0 +1,4 @@
+/aws/dist/awscli
+/aws/dist/cryptography
+/aws/dist/docutils
+/aws/dist/lib-dynload
